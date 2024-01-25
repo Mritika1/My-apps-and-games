@@ -1,0 +1,22 @@
+body{
+background-color: aquamarine;
+text-align: center;
+}
+
+h1{
+font-size: 40px;
+font-weight: 300px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#app{
+    background-color: blueviolet;
+
+}
+
+.line{
+height: 6px;
+background-color: black;
+width: 70px;
+margin: 8px auto;
+}
